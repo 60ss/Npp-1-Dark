@@ -8,8 +8,8 @@
 //-->
 <NotepadPlus>
     <GlobalStyles>
-        <WidgetStyle fgColor="FFFFFF" bgColor="282C34" fontName="Roboto Mono" fontSize="11" fontStyle="0" name="Global override" styleID="0" />
-        <WidgetStyle fgColor="ABB2BF" bgColor="282C34" fontName="Roboto Mono" fontSize="11" fontStyle="0" name="Default Style" styleID="32" />
+        <WidgetStyle fgColor="FFFFFF" bgColor="282C34" fontName="Consolas" fontSize="11" fontStyle="0" name="Global override" styleID="0" />
+        <WidgetStyle fgColor="ABB2BF" bgColor="282C34" fontName="Consolas" fontSize="11" fontStyle="0" name="Default Style" styleID="32" />
         <WidgetStyle fgColor="3E4451" bgColor="282C34" fontName="" fontSize="11" fontStyle="0" name="Indent guideline style" styleID="37" />
         <WidgetStyle fgColor="ABB2BF" bgColor="282C34" fontName="" fontSize="11" fontStyle="4" name="Brace highlight style" styleID="34" />
         <WidgetStyle fgColor="E06C75" bgColor="282C34" fontName="" fontSize="11" fontStyle="0" name="Bad brace colour" styleID="35" />
