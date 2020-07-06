@@ -1,7 +1,7 @@
 # Npp-1-Dark
 One Dark Syntax Theme for Notepad++
 
-![Npp-1-Dark](https://raw.githubusercontent.com/60ss/Npp-1-Dark/master/Screenshot/Npp-1-Dark-Screenshot.png)
+![Npp-1-Dark](https://raw.githubusercontent.com/60ss/Npp-1-Dark/master/Screenshot/Npp-1-Dark-Ss.png)
 > A close replica of the Atom **`One Dark`** syntax theme in **`Notepad++`**.
 
 ### Theme Installation:
