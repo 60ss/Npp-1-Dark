@@ -224,7 +224,7 @@
         <LexerType name="ini" desc="ini file" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="ABB2BF" bgColor="282C34" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="5C6370" bgColor="282C34" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="SECTION" styleID="2" fgColor="D19A66" bgColor="F2F4FF" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="SECTION" styleID="2" fgColor="D19A66" bgColor="282C34" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="98C379" bgColor="282C34" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="DEFVAL" styleID="4" fgColor="C678DD" bgColor="282C34" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
